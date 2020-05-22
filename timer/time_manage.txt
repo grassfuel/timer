@@ -1,0 +1,8 @@
+Label
+10
+Free_type_space
+5
+Line is spread
+3
+Place note
+10
